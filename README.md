@@ -56,6 +56,28 @@ TDK low ESR filtering caps on the main voltage
 # Manufacuring
 I used [EasyEDA](https://easyeda.com/) (free PCB design tool) for designing the boards. [LCS](https://www.lcsc.com/) for ordering components and [JLCPCB](https://jlcpcb.com/) for manufacuring the boards as well as assembling the processing board. Processing board has allot of 0201 components and it is almost impossible to assemble a DIY way.
 
+PCB manufacturing specification:
+
+PDB:
+ * Layers: 6
+ * Base Material: FR4 Tg155
+ * PCB Thickness: 1.6mm
+ * Inner Copper Weight: 2oz
+ * Outer Copper Weight: 2oz
+ * Via Covering: Epoxy Filled & Capped
+ * Surface Finish: ENIG Gold Thickness:2 U"
+ * Castellated Holes: yes, Edges: 4
+ 
+ Processing Board:
+  * Layers: 6
+  * Base Material: FR4 Tg140
+  * PCB Thickness: 0.8mm
+  * Inner Copper Weight: 0.5oz
+  * Outer Copper Weight: 1oz
+  * Via Covering: Epoxy Filled & Capped
+  * Surface Finish: ENIG Gold Thickness:1 U"
+  * Castellated Holes: yes, Edges: 4
+
 For assembling the ESC I use solder paste with stencil from JLCPCB. Alignment of Processing board on the PCB is critical as the Processing board has very tightly spaced and small castellated holes. Bad alignment may result in shorts or cold soldering. Heat gun soldering or reflow oven will require long and high heat profiles as the PCB has huge termal capacity. I used cheap soldering heat gun on max temp settings with medium tip for about 5 minutes per side.
 
 
