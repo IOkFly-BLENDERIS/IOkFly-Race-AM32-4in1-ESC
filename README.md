@@ -80,6 +80,9 @@ PDB:
 
 For assembling the ESC I use solder paste with stencil from JLCPCB. Alignment of Processing board on the PCB is critical as the Processing board has very tightly spaced and small castellated holes. Bad alignment may result in shorts or cold soldering. Heat gun soldering or reflow oven will require long and high heat profiles as the PCB has huge termal capacity. I used cheap soldering heat gun on max temp settings with medium tip for about 5 minutes per side.
 
+![a4b90eb0-27a8-4f00-a823-043f32ee22c1](https://github.com/IOkFly-BLENDERIS/IOkFly-Race-AM32-4in1-ESC/assets/133950976/9927340a-5a2e-4e51-94dd-92a560e04b4b) ![e0199466-272c-4952-8d58-d4b367f4d860](https://github.com/IOkFly-BLENDERIS/IOkFly-Race-AM32-4in1-ESC/assets/133950976/a64cf738-778a-4ef8-b418-c513a567a418)
+
+
 # Testing
 
 Flight testing:
