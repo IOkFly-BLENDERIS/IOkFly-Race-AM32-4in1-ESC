@@ -15,7 +15,7 @@ Split board design
  * Reduced heat buildup on sensitive logic components.
  * Allows for uncompromised power plane layers on PDB to achieve excellent power delivery performance.
 
-2 Oz copper on all 6 layers of power distribution board
+2 oz copper weight on all 6 layers of power distribution board
  * Improves current flow.
  * Improves heat distribution and heat capacity.
  * Improves shock durability.
