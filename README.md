@@ -48,7 +48,8 @@ TDK low ESR filtering caps on the main voltage
  * Target: AM32_SKYSTARS_KM55_E230
  * Mounting: 30.5x30.5 or 20x20 M3 bottoms and 30.5x30.5 or 20x20 tops with M2 or M3
  * Dimensions: 38.1x38.7x12mm
- * Weight: 17g with mount\
+ * Weight: 17g with mount
+
 ![ESC pinout](https://github.com/IOkFly-BLENDERIS/IOkFly-Race-AM32-4in1-ESC/assets/133950976/62eea24b-0331-443b-aff9-20422fb3c1ae) ![Processing board](https://github.com/IOkFly-BLENDERIS/IOkFly-Race-AM32-4in1-ESC/assets/133950976/2936366c-c37b-44f8-91a1-f6106755df46)
 
 # Manufacuring
