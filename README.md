@@ -44,7 +44,7 @@ TDK low ESR filtering caps on the main voltage
  * Dimensions: 38.1x38.7x12mm
  * Weight: 17g with mount
 
-![ESC pinout](https://github.com/IOkFly-BLENDERIS/IOkFly-Race-AM32-4in1-ESC/assets/133950976/bc576cc6-4df9-4c56-b795-eccb09293f3f)
+![ESC pinout](https://github.com/IOkFly-BLENDERIS/IOkFly-Race-AM32-4in1-ESC/assets/133950976/bc576cc6-4df9-4c56-b795-eccb09293f3f) ![Processing board](https://github.com/IOkFly-BLENDERIS/IOkFly-Race-AM32-4in1-ESC/assets/133950976/73a3530e-2c1e-4727-bb3a-f7e3f9611904)
 
 
 # Manufacuring
