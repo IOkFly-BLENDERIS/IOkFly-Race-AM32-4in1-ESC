@@ -44,4 +44,6 @@ TDK low ESR filtering caps on the main voltage
  * Dimensions: 38.1x38.7x12mm
  * Weight: 17g with mount
 
+# Manufacurin
+I used EasyEDA(free PCB design tool) for designing the boards. LCS for ordering components and JLCPCB for manufacuring the boards as well as assembling processing board. Processing board has allot of 0201 components and it is almost impossible to assamble in DIY way.
 
