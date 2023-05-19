@@ -44,6 +44,9 @@ TDK low ESR filtering caps on the main voltage
  * Dimensions: 38.1x38.7x12mm
  * Weight: 17g with mount
 
+![ESC pinout](https://github.com/IOkFly-BLENDERIS/IOkFly-Race-AM32-4in1-ESC/assets/133950976/bc576cc6-4df9-4c56-b795-eccb09293f3f)
+
+
 # Manufacuring
 I used [EasyEDA](https://easyeda.com/) (free PCB design tool) for designing the boards. [LCS](https://www.lcsc.com/) for ordering components and [JLCPCB](https://jlcpcb.com/) for manufacuring the boards as well as assembling the processing board. Processing board has allot of 0201 components and it is almost impossible to assemble a DIY way.
 
