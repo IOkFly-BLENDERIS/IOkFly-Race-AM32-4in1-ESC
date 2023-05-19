@@ -1,5 +1,5 @@
 # IOkFly-Race-AM32-4in1-ESC
-4in1 ESC based on [AM32 FW](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware.git). Developed for quad racing.
+4in1 ESC based on [AM32 FW](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware.git). Every commercial  ESC on the market has some sort of design compromise to satisfy as many use cases as possible. My plan was to develop uncompromised, performance oriented ESC for quadcopter racing. Combining all of the features mentioned below I believe that I achieved to design a perfect ESC for racing.
 
 # Features
 
