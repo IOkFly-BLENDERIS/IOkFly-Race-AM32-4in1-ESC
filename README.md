@@ -41,7 +41,7 @@ TDK low ESR filtering caps on the main voltage
 
 # Specification
  * Voltage: 4-6S
- * Current: ?>40A
+ * Current: 40A < ?
  * MCU - GD32E230G6U6TR
  * Gate driver - FD6288Q
  * Mosfet - IRFH7004TRPBF
