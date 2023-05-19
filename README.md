@@ -48,7 +48,8 @@ TDK low ESR filtering caps on the main voltage
  * Target: AM32_SKYSTARS_KM55_E230
  * Mounting: 30.5x30.5 or 20x20 M3 bottoms and 30.5x30.5 or 20x20 tops with M2 or M3
  * Dimensions: 38.1x38.7x12mm
- * Weight: 17g with mount
+ * Weight: 17g with mount\
+![ESC pinout](https://github.com/IOkFly-BLENDERIS/IOkFly-Race-AM32-4in1-ESC/assets/133950976/62eea24b-0331-443b-aff9-20422fb3c1ae) ![Processing board](https://github.com/IOkFly-BLENDERIS/IOkFly-Race-AM32-4in1-ESC/assets/133950976/2936366c-c37b-44f8-91a1-f6106755df46)
 
 # Manufacuring
 I used [EasyEDA](https://easyeda.com/) (free PCB design tool) for designing the boards. [LCS](https://www.lcsc.com/) for ordering components and [JLCPCB](https://jlcpcb.com/) for manufacuring the boards as well as assembling the processing board. Processing board has allot of 0201 components and it is almost impossible to assemble a DIY way.
@@ -75,7 +76,8 @@ PDB:
   * Surface Finish: ENIG Gold Thickness:1 U"
   * Castellated Holes: yes, Edges: 4
 
-For assembling the ESC I use solder paste with stencil from JLCPCB. Alignment of Processing board on the PCB is critical as the Processing board has very tightly spaced and small castellated holes. Bad alignment may result in shorts or cold soldering. Heat gun soldering or reflow oven will require long and high heat profiles as the PCB has huge termal capacity. I used cheap soldering heat gun on max temp settings with medium tip for about 5 minutes per side.
+For assembling the ESC I use solder paste with stencil from JLCPCB. Alignment of Processing board on the PCB is critical as the Processing board has very tightly spaced and small castellated holes. Bad alignment may result in shorts or cold soldering. Heat gun soldering or reflow oven will require long and high heat profiles as the PCB has huge termal capacity. I used cheap soldering heat gun on max temp settings with medium tip for about 5 minutes per side.\
+![WhatsApp attēls 2023-05-19 plkst  23 57 41](https://github.com/IOkFly-BLENDERIS/IOkFly-Race-AM32-4in1-ESC/assets/133950976/be19ce04-929f-4c8b-be93-1ee4f63ee6dd) ![WhatsApp attēls 2023-05-19 plkst  23 58 39](https://github.com/IOkFly-BLENDERIS/IOkFly-Race-AM32-4in1-ESC/assets/133950976/bc83deef-e31b-4360-b07a-066a26edbc2e)
 
 # Testing
 
