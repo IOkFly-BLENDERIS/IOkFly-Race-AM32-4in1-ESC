@@ -80,6 +80,12 @@ PDB:
 
 For assembling the ESC I use solder paste with stencil from JLCPCB. Alignment of Processing board on the PCB is critical as the Processing board has very tightly spaced and small castellated holes. Bad alignment may result in shorts or cold soldering. Heat gun soldering or reflow oven will require long and high heat profiles as the PCB has huge termal capacity. I used cheap soldering heat gun on max temp settings with medium tip for about 5 minutes per side.
 
+# Testing
+
+Flight testing:
+https://www.youtube.com/watch?v=bb6y31JhEbI \
+Current draw testing: Coming soon...
+
 # Contributors
 
 Pete Smits\
