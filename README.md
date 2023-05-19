@@ -1,7 +1,7 @@
 # IOkFly-Race-AM32-4in1-ESC
 
 <p align="left">
-  <a href="/LICENSE"><img src="https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-lightgrey.svg" alt="GitHub license" /></a>
+  <a href="/LICENSE.md"><img src="https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-lightgrey.svg" alt="GitHub license" /></a>
 </p>
 
 
