@@ -42,6 +42,6 @@ TDK low ESR filtering caps on the main voltage
  * Target: AM32_SKYSTARS_KM55_E230
  * Mounting: 30.5x30.5 or 20x20 M3 bottoms and 30.5x30.5 or 20x20 tops with M2 or M3
  * Dimensions: 38.1x38.7x12mm
- * Weight: 17g
+ * Weight: 17g with mount
 
 
