@@ -50,9 +50,6 @@ TDK low ESR filtering caps on the main voltage
  * Dimensions: 38.1x38.7x12mm
  * Weight: 17g with mount
 
-![ESC pinout](https://github.com/IOkFly-BLENDERIS/IOkFly-Race-AM32-4in1-ESC/assets/133950976/bc576cc6-4df9-4c56-b795-eccb09293f3f) ![Processing board](https://github.com/IOkFly-BLENDERIS/IOkFly-Race-AM32-4in1-ESC/assets/133950976/73a3530e-2c1e-4727-bb3a-f7e3f9611904)
-
-
 # Manufacuring
 I used [EasyEDA](https://easyeda.com/) (free PCB design tool) for designing the boards. [LCS](https://www.lcsc.com/) for ordering components and [JLCPCB](https://jlcpcb.com/) for manufacuring the boards as well as assembling the processing board. Processing board has allot of 0201 components and it is almost impossible to assemble a DIY way.
 
@@ -79,13 +76,6 @@ PDB:
   * Castellated Holes: yes, Edges: 4
 
 For assembling the ESC I use solder paste with stencil from JLCPCB. Alignment of Processing board on the PCB is critical as the Processing board has very tightly spaced and small castellated holes. Bad alignment may result in shorts or cold soldering. Heat gun soldering or reflow oven will require long and high heat profiles as the PCB has huge termal capacity. I used cheap soldering heat gun on max temp settings with medium tip for about 5 minutes per side.
-
-![WhatsApp attēls 2023-05-19 plkst  23 57 41](https://github.com/IOkFly-BLENDERIS/IOkFly-Race-AM32-4in1-ESC/assets/133950976/46544f7f-2648-4b49-8de7-97c145edd307) ![WhatsApp attēls 2023-05-19 plkst  23 58 39](https://github.com/IOkFly-BLENDERIS/IOkFly-Race-AM32-4in1-ESC/assets/133950976/137dd823-da13-488f-b00a-537decf66462)\
-![WhatsApp attēls 2023-05-20 plkst  00 01 37](https://github.com/IOkFly-BLENDERIS/IOkFly-Race-AM32-4in1-ESC/assets/133950976/daaf9efb-222e-439d-98ae-7d41ca2b58da) ![WhatsApp attēls 2023-05-20 plkst  00 01 06](https://github.com/IOkFly-BLENDERIS/IOkFly-Race-AM32-4in1-ESC/assets/133950976/b8cb1636-6c32-4a70-8240-b06e4d07a260)
-
-
-
-
 
 # Testing
 
