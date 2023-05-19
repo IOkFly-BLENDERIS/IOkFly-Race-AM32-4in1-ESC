@@ -1,10 +1,10 @@
 # IOkFly-Race-AM32-4in1-ESC
-4in1 ESC based on AM32 FW. Developed for quad racing.
+4in1 ESC based on [AM32 FW](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware.git). Developed for quad racing.
 
 # Features
 
 Uses AM32 open sourced 32-bit ESC FW
- * Excellent performance, excellent support and excellent community. https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware.git
+ * Excellent performance, excellent support and excellent community.
 
 No mounting through holes
  * Allows for optimal layout to ensure a direct power flow path to each mosfet.
@@ -22,7 +22,7 @@ Split board design
 
 High performance Infineon mosfets.
  * In racing power deficit is not an option.
- * IRFH7004TRPBF - https://www.infineon.com/dgdl/irfh7004pbf.pdf?fileId=5546d462533600a40153561ea3e51ed2
+ * [IRFH7004TRPBF](https://www.infineon.com/dgdl/irfh7004pbf.pdf?fileId=5546d462533600a40153561ea3e51ed2)
 
 No current sensor
  * Current sensor and its components take a lot of valuable board space and add small power flow restriction while in racing is almost never used. Best part is no part.
@@ -45,5 +45,5 @@ TDK low ESR filtering caps on the main voltage
  * Weight: 17g with mount
 
 # Manufacurin
-I used EasyEDA(free PCB design tool) for designing the boards. LCS for ordering components and JLCPCB for manufacuring the boards as well as assembling processing board. Processing board has allot of 0201 components and it is almost impossible to assamble in DIY way.
+I used [EasyEDA](https://easyeda.com/) (free PCB design tool) for designing the boards. [LCS](https://www.lcsc.com/) for ordering components and [JLCPCB](https://jlcpcb.com/) for manufacuring the boards as well as assembling processing board. Processing board has allot of 0201 components and it is almost impossible to assamble in DIY way.
 
