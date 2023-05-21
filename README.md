@@ -31,7 +31,8 @@ High performance Infineon mosfets.
  * [IRFH7004TRPBF](https://www.infineon.com/dgdl/irfh7004pbf.pdf?fileId=5546d462533600a40153561ea3e51ed2)
 
 No current sensor
- * Current sensor and its components take a lot of valuable board space and add small power flow restriction while in racing is almost never used. Best part is no part.
+ * Current sensor and its components take a lot of valuable board space and add small power flow restriction while in racing is almost never used. Best part is no part. There is external XT60 current sensor boards available if needed.\
+![Ekrānuzņēmums 2023-05-21 213739](https://github.com/IOkFly-BLENDERIS/IOkFly-Race-AM32-4in1-ESC/assets/133950976/2d17819c-baca-40b2-acc5-546fded5815f)
 
 FR4 Tg155 board material
  * Higher temperature tolerance and better manufacturing quality.
@@ -77,7 +78,7 @@ PDB:
   * Surface Finish: ENIG Gold Thickness:1 U"
   * Castellated Holes: yes, Edges: 4
 
-For assembling the ESC I use solder paste with stencil from JLCPCB. Alignment of Processing board on the PCB is critical as the Processing board has very tightly spaced and small castellated holes. Bad alignment may result in shorts or cold soldering. Heat gun soldering or reflow oven will require long and high heat profiles as the PCB has huge termal capacity. I used cheap soldering heat gun on max temp settings with medium tip for about 5 minutes per side.\
+For assembling the ESC I use solder paste with stencil from JLCPCB. Alignment of Processing board on the PCB is critical as the Processing board has very tightly spaced and small castellated holes. Bad alignment may result in shorts or cold soldering. Heat gun soldering or reflow oven will require long and high heat profiles as the PCB has huge termal capacity. I used cheap soldering heat gun on max temp settings with medium tip and low air flow for about 5 minutes per side.\
 ![WhatsApp attēls 2023-05-19 plkst  23 57 41](https://github.com/IOkFly-BLENDERIS/IOkFly-Race-AM32-4in1-ESC/assets/133950976/be19ce04-929f-4c8b-be93-1ee4f63ee6dd) ![WhatsApp attēls 2023-05-19 plkst  23 58 39](https://github.com/IOkFly-BLENDERIS/IOkFly-Race-AM32-4in1-ESC/assets/133950976/bc83deef-e31b-4360-b07a-066a26edbc2e)
 
 # Testing
@@ -89,7 +90,7 @@ Current draw testing: Coming soon...
 # Contributors
 
 Pete Smits\
-Jurģis Punculis\
+IOkFly_FluxssFPV\
 AM32 Discord coumunity
 
 
