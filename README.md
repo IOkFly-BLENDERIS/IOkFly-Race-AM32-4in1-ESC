@@ -28,7 +28,7 @@ Split board design
 
 High performance Infineon mosfets.
  * In racing power deficit is not an option.
- * IRFH7004TRPBF](https://www.infineon.com/dgdl/irfh7004pbf.pdf?fileId=5546d462533600a40153561ea3e51ed2)
+ * [IRFH7004TRPBF](https://www.infineon.com/dgdl/irfh7004pbf.pdf?fileId=5546d462533600a40153561ea3e51ed2)
 
 No current sensor
  * Current sensor and its components use valuable board space and adds a small power flow restriction while in racing it`s almost never used. Best part is no part. There are external XT60 current sensor boards available if needed.\
